@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Kurt",
+        "last_name": "Gotobed",
+        "email": "kgotobed0@cargocollective.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Xymenes",
+        "last_name": "Slyme",
+        "email": "xslyme1@hao123.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Maddi",
+        "last_name": "Oman",
+        "email": "moman2@hao123.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 4,
+        "first_name": "Haily",
+        "last_name": "Gravatt",
+        "email": "hgravatt3@icio.us",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Florian",
+        "last_name": "Heinssen",
+        "email": "fheinssen4@dropbox.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Tracy",
+        "last_name": "Aldgate",
+        "email": "taldgate5@networkadvertising.org",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Logan",
+        "last_name": "Ridings",
+        "email": "lridings6@multiply.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Deina",
+        "last_name": "Alecock",
+        "email": "dalecock7@ning.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Kelcy",
+        "last_name": "Berston",
+        "email": "kberston8@symantec.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 10,
+        "first_name": "Creighton",
+        "last_name": "Engley",
+        "email": "cengley9@microsoft.com",
+        "gender": "Male"
+    }
+]
